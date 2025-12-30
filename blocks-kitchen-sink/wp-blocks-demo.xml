@@ -45,7 +45,7 @@
 		<link>https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_0747/</link>
 		<pubDate>Mon, 16 Jun 2008 21:50:37 +0000</pubDate>
 		<dc:creator><![CDATA[danielwrobert]]></dc:creator>
-		<guid isPermaLink="false">https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0747.jpg</guid>
+		<guid isPermaLink="false">https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25770]]></content:encoded>
 		<excerpt:encoded><![CDATA[Jericoacoara Ceara Brasil]]></excerpt:encoded>
@@ -63,7 +63,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0747.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2008/06/img_0747.jpg]]></wp:meta_value>
@@ -119,7 +119,7 @@
 <!-- /wp:coblocks/accordion -->
 
 <!-- wp:coblocks/gallery-carousel {"align":"full","pageDots":true,"autoPlay":true,"alignCells":true,"pauseHover":true,"responsiveHeight":true} -->
-<div aria-label="Carousel Gallery" class="wp-block-coblocks-gallery-carousel alignfull"><div class="coblocks-gallery-carousel-swiper-container is-cropped coblocks-gallery has-caption-style-dark has-horizontal-gutter has-no-thumbnails"><div class="has-carousel has-carousel-lrg swiper-container has-aligned-cells has-responsive-height" data-swiper="{&quot;alignCells&quot;:true,&quot;autoPlay&quot;:true,&quot;autoPlaySpeed&quot;:3000,&quot;draggable&quot;:true,&quot;freeMode&quot;:false,&quot;loop&quot;:false,&quot;navigation&quot;:true,&quot;pageDots&quot;:true,&quot;pauseHover&quot;:true,&quot;responsiveHeight&quot;:true,&quot;slidesPerView&quot;:2,&quot;thumbnails&quot;:false,&quot;uuid&quot;:&quot;12345&quot;}" style="height:400px"><div class="swiper-wrapper"><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="0"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="" class="wp-image-827" data-id="827" data-link="https://wpsandbox.mystagingwebsite.com/about/clearing-floats/olympus-digital-camera/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2010/08/manhattansummer.jpg"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption"></figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="1"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Boat Barco Texture" class="wp-image-771" data-id="771" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_8399/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_8399-1024x682.jpg"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="2"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Huatulco Coastline" class="wp-image-770" data-id="770" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_0767/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0767.jpg"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Coastline in Huatulco, Oaxaca, Mexico</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="3"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Brazil Beach" class="wp-image-769" data-id="769" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_0747/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0747-1024x682.jpg"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Jericoacoara Ceara Brasil</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="4"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Huatulco Coastline" class="wp-image-768" data-id="768" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/alas-i-have-found-my-shangri-la/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0513-1.jpg"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="5"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Big Sur" class="wp-image-766" data-id="766" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/michelle_049/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/michelle_049-1024x768.jpg"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Beach at Big Sur, CA</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="6"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Sea and Rocks" class="wp-image-765" data-id="765" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dscn3316/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dscn3316-1024x768.jpg"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Sea and rocks, Plimmerton, New Zealand</figcaption></div></div></div><button class="nav-button__prev" id="12345-prev"><svg class="icon" style="transform:rotate(180deg)"></svg></button><button class="nav-button__next" id="12345-next"><svg class="icon"></svg></button></div><div class="wp-block-coblocks-gallery-carousel-page-dot-pagination-container"><div class="wp-block-coblocks-gallery-carousel-page-dot-wrapper"><button aria-label="view image 1 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 2 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 3 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 4 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 5 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 6 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 7 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button></div></div></div></div>
+<div aria-label="Carousel Gallery" class="wp-block-coblocks-gallery-carousel alignfull"><div class="coblocks-gallery-carousel-swiper-container is-cropped coblocks-gallery has-caption-style-dark has-horizontal-gutter has-no-thumbnails"><div class="has-carousel has-carousel-lrg swiper-container has-aligned-cells has-responsive-height" data-swiper="{&quot;alignCells&quot;:true,&quot;autoPlay&quot;:true,&quot;autoPlaySpeed&quot;:3000,&quot;draggable&quot;:true,&quot;freeMode&quot;:false,&quot;loop&quot;:false,&quot;navigation&quot;:true,&quot;pageDots&quot;:true,&quot;pauseHover&quot;:true,&quot;responsiveHeight&quot;:true,&quot;slidesPerView&quot;:2,&quot;thumbnails&quot;:false,&quot;uuid&quot;:&quot;12345&quot;}" style="height:400px"><div class="swiper-wrapper"><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="0"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="" class="wp-image-827" data-id="827" data-link="https://wpsandbox.mystagingwebsite.com/about/clearing-floats/olympus-digital-camera/" src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1600"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption"></figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="1"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Boat Barco Texture" class="wp-image-771" data-id="771" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_8399/" src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1600"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="2"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Huatulco Coastline" class="wp-image-770" data-id="770" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_0767/" src="https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=1600"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Coastline in Huatulco, Oaxaca, Mexico</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="3"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Brazil Beach" class="wp-image-769" data-id="769" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_0747/" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Jericoacoara Ceara Brasil</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="4"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Huatulco Coastline" class="wp-image-768" data-id="768" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/alas-i-have-found-my-shangri-la/" src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1600"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="5"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Big Sur" class="wp-image-766" data-id="766" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/michelle_049/" src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Beach at Big Sur, CA</figcaption></div></div><div class="swiper-slide"><div class="coblocks-gallery--item" role="button" tabindex="6"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img alt="Sea and Rocks" class="wp-image-765" data-id="765" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dscn3316/" src="https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=1024"/></figure><figcaption class="coblocks-gallery--caption coblocks-gallery--primary-caption">Sea and rocks, Plimmerton, New Zealand</figcaption></div></div></div><button class="nav-button__prev" id="12345-prev"><svg class="icon" style="transform:rotate(180deg)"></svg></button><button class="nav-button__next" id="12345-next"><svg class="icon"></svg></button></div><div class="wp-block-coblocks-gallery-carousel-page-dot-pagination-container"><div class="wp-block-coblocks-gallery-carousel-page-dot-wrapper"><button aria-label="view image 1 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 2 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 3 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 4 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 5 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 6 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button><button aria-label="view image 7 of 7 in carousel" class="wp-block-coblocks-gallery-carousel-page-dot-pagination"></button></div></div></div></div>
 <!-- /wp:coblocks/gallery-carousel -->
 
 <!-- wp:coblocks/shape-divider /-->
@@ -127,7 +127,7 @@
 <!-- wp:coblocks/social-profiles {"facebook":"https://facebook.com/google","twitter":"https://twitter.com/google","instagram":"https://instagram.com/google","linkedin":"https://linkedin.com/google"} /-->
 
 <!-- wp:coblocks/gallery-stacked -->
-<div class="wp-block-coblocks-gallery-stacked"><ul class="coblocks-gallery has-no-alignment has-fullwidth-images has-custom-gutter" style="--coblocks-custom-gutter:0em"><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="" class="wp-image-1692 has-shadow-none" data-id="1692" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/about/clearing-floats/spectacles-2/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2014/01/spectacles.gif"/></figure></li><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="" class="wp-image-1691 has-shadow-none" data-id="1691" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2014/01/dsc20050315_145007_132.jpg"/></figure></li><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="" class="wp-image-1687 has-shadow-none" data-id="1687" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20050604_133440_34211/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2013/09/dsc20050604_133440_34211.jpg"/></figure></li><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="Sydney Harbor Bridge" class="wp-image-760 has-shadow-none" data-id="760" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc09114/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc09114-1024x768.jpg"/></figure></li></ul></div>
+<div class="wp-block-coblocks-gallery-stacked"><ul class="coblocks-gallery has-no-alignment has-fullwidth-images has-custom-gutter" style="--coblocks-custom-gutter:0em"><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="" class="wp-image-1692 has-shadow-none" data-id="1692" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/about/clearing-floats/spectacles-2/" src="https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=800"/></figure></li><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="" class="wp-image-1691 has-shadow-none" data-id="1691" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/" src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800"/></figure></li><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="" class="wp-image-1687 has-shadow-none" data-id="1687" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20050604_133440_34211/" src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800"/></figure></li><li class="coblocks-gallery--item"><figure class="coblocks-gallery--figure"><img alt="Sydney Harbor Bridge" class="wp-image-760 has-shadow-none" data-id="760" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc09114/" src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1024"/></figure></li></ul></div>
 <!-- /wp:coblocks/gallery-stacked -->
 
 <!-- wp:coblocks/posts {"className":"is-style-stacked"} /-->
@@ -213,7 +213,7 @@
 <!-- /wp:coblocks/click-to-tweet -->
 
 <!-- wp:coblocks/gallery-collage -->
-<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage alignwide has-small-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-1045" data-id="1045" data-imglink="" data-index="0" data-link="https://wpsandbox.mystagingwebsite.com/2010/08/08/post-format-image/unicorn-wallpaper/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2012/12/unicorn-wallpaper-1024x768.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-766" data-id="766" data-imglink="" data-index="1" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/michelle_049/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/michelle_049-1024x768.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-769" data-id="769" data-imglink="" data-index="2" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_0747/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0747-1024x682.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-760" data-id="760" data-imglink="" data-index="3" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc09114/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc09114-1024x768.jpg"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-5"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-755" data-id="755" data-imglink="" data-index="4" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/100_5540/" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/100_5540-1024x768.jpg"/></figure></li></ul></div>
+<div aria-label="Collage Gallery" class="wp-block-coblocks-gallery-collage alignwide has-small-gutter"><ul><li class="wp-block-coblocks-gallery-collage__item item-1"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-1045" data-id="1045" data-imglink="" data-index="0" data-link="https://wpsandbox.mystagingwebsite.com/2010/08/08/post-format-image/unicorn-wallpaper/" src="https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=1024"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-2"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-766" data-id="766" data-imglink="" data-index="1" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/michelle_049/" src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-3"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-769" data-id="769" data-imglink="" data-index="2" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/img_0747/" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-4"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-760" data-id="760" data-imglink="" data-index="3" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc09114/" src="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1024"/></figure></li><li class="wp-block-coblocks-gallery-collage__item item-5"><figure class="wp-block-coblocks-gallery-collage__figure"><img alt="Gallery Image" class="wp-image-755" data-id="755" data-imglink="" data-index="4" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/100_5540/" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1024"/></figure></li></ul></div>
 <!-- /wp:coblocks/gallery-collage -->
 
 <!-- wp:coblocks/food-and-drinks -->
@@ -231,28 +231,28 @@
 <!-- /wp:coblocks/food-and-drinks -->
 
 <!-- wp:coblocks/logos -->
-<div aria-label="List of logos" class="wp-block-coblocks-logos"><div class="wp-block-coblocks-logos__row"><div style="width:37.9845%"><img alt="" data-id="1860" data-width="37.9845%" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/random-badge.png"/></div></div></div>
+<div aria-label="List of logos" class="wp-block-coblocks-logos"><div class="wp-block-coblocks-logos__row"><div style="width:37.9845%"><img alt="" data-id="1860" data-width="37.9845%" src="https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=200"/></div></div></div>
 <!-- /wp:coblocks/logos -->
 
 <!-- wp:coblocks/gallery-masonry {"linkTo":"none"} -->
 <figure class="wp-block-coblocks-gallery-masonry masonry-grid has-medium-gutter"><!-- wp:image {"id":771,"sizeSlug":"large","linkDestination":"none","className":"masonry-brick"} -->
-<figure class="wp-block-image size-large masonry-brick"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_8399.jpg" alt="Boat Barco Texture" class="wp-image-771"/><figcaption class="wp-element-caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure>
+<figure class="wp-block-image size-large masonry-brick"><img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1600" alt="Boat Barco Texture" class="wp-image-771"/><figcaption class="wp-element-caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":765,"sizeSlug":"large","linkDestination":"none","className":"masonry-brick"} -->
-<figure class="wp-block-image size-large masonry-brick"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dscn3316.jpg" alt="Sea and Rocks" class="wp-image-765"/><figcaption class="wp-element-caption">Sea and rocks, Plimmerton, New Zealand</figcaption></figure>
+<figure class="wp-block-image size-large masonry-brick"><img src="https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=1024" alt="Sea and Rocks" class="wp-image-765"/><figcaption class="wp-element-caption">Sea and rocks, Plimmerton, New Zealand</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":764,"sizeSlug":"large","linkDestination":"none","className":"masonry-brick"} -->
-<figure class="wp-block-image size-large masonry-brick"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc20051220_173257_119.jpg" alt="Rusty Rail" class="wp-image-764"/><figcaption class="wp-element-caption">Rusty rails with fishplate, Kojonup</figcaption></figure>
+<figure class="wp-block-image size-large masonry-brick"><img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1024" alt="Rusty Rail" class="wp-image-764"/><figcaption class="wp-element-caption">Rusty rails with fishplate, Kojonup</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":617,"sizeSlug":"large","linkDestination":"none","className":"masonry-brick"} -->
-<figure class="wp-block-image size-large masonry-brick"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc20050813_115856_52.jpg" alt="dsc20050813_115856_52" class="wp-image-617"/></figure>
+<figure class="wp-block-image size-large masonry-brick"><img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800" alt="dsc20050813_115856_52" class="wp-image-617"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":758,"sizeSlug":"large","linkDestination":"none","className":"masonry-brick"} -->
-<figure class="wp-block-image size-large masonry-brick"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc03149.jpg" alt="Yachtsody in Blue" class="wp-image-758"/><figcaption class="wp-element-caption">Boats and reflections, Royal Perth Yacht Club</figcaption></figure>
+<figure class="wp-block-image size-large masonry-brick"><img src="https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1024" alt="Yachtsody in Blue" class="wp-image-758"/><figcaption class="wp-element-caption">Boats and reflections, Royal Perth Yacht Club</figcaption></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:coblocks/gallery-masonry -->
 
@@ -285,7 +285,7 @@
 <!-- wp:coblocks/row {"columns":2,"layout":"66-33","coblocks":{"id":"1126105335518"}} -->
 <div class="wp-block-coblocks-row coblocks-row-1126105335518" data-columns="2" data-layout="66-33"><div class="wp-block-coblocks-row__inner has-no-padding has-no-margin is-stacked-on-mobile has-medium-gutter"><!-- wp:coblocks/column {"width":"66","coblocks":{"id":"1126233549833"}} -->
 <div class="wp-block-coblocks-column coblocks-column-1126233549833" style="width:66%"><div class="wp-block-coblocks-column__inner has-no-padding has-no-margin"><!-- wp:image {"id":768,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0513-1.jpg" alt="Huatulco Coastline" class="wp-image-768"/><figcaption class="wp-element-caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1600" alt="Huatulco Coastline" class="wp-image-768"/><figcaption class="wp-element-caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:coblocks/column -->
 
@@ -304,7 +304,7 @@
 
 <!-- wp:coblocks/services -->
 <div class="wp-block-coblocks-services"><div class="has-columns has-2-columns has-responsive-columns has-medium-gutter"><!-- wp:coblocks/service {"imageId":1691} -->
-<div class="wp-block-coblocks-service"><figure class="wp-block-coblocks-service__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2014/01/dsc20050315_145007_132.jpg" alt=""/></figure><div class="wp-block-coblocks-service__content"><!-- wp:heading {"textAlign":"none","level":3,"placeholder":"Write title…"} -->
+<div class="wp-block-coblocks-service"><figure class="wp-block-coblocks-service__figure"><img src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800" alt=""/></figure><div class="wp-block-coblocks-service__content"><!-- wp:heading {"textAlign":"none","level":3,"placeholder":"Write title…"} -->
 <h3 class="wp-block-heading has-text-align-none">Leaf</h3>
 <!-- /wp:heading -->
 
@@ -314,7 +314,7 @@
 <!-- /wp:coblocks/service -->
 
 <!-- wp:coblocks/service {"imageId":758} -->
-<div class="wp-block-coblocks-service"><figure class="wp-block-coblocks-service__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc03149.jpg" alt="Yachtsody in Blue"/></figure><div class="wp-block-coblocks-service__content"><!-- wp:heading {"textAlign":"none","level":3,"placeholder":"Write title…"} -->
+<div class="wp-block-coblocks-service"><figure class="wp-block-coblocks-service__figure"><img src="https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1024" alt="Yachtsody in Blue"/></figure><div class="wp-block-coblocks-service__content"><!-- wp:heading {"textAlign":"none","level":3,"placeholder":"Write title…"} -->
 <h3 class="wp-block-heading has-text-align-none">Seacoast Bay</h3>
 <!-- /wp:heading -->
 
@@ -325,7 +325,7 @@
 <!-- /wp:coblocks/services -->
 
 <!-- wp:coblocks/gallery-offset -->
-<div aria-label="Offset Gallery" class="wp-block-coblocks-gallery-offset"><ul class="coblocks-gallery has-no-alignment has-caption-style-dark has-small-images has-small-gutter"><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/100_5478-1024x768.jpg" alt="Bell on Wharf" data-id="754" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/100_5478/" class="wp-image-754"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/cep00032-1024x819.jpg" alt="Sunburst Over River" data-id="756" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/cep00032/" class="wp-image-756"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc20051220_160808_102-1024x682.jpg" alt="Antique Farm Machinery" data-id="762" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20051220_160808_102/" class="wp-image-762"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/canola2.jpg" alt="canola" data-id="611" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/canola2/" class="wp-image-611"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dcp_2082-1024x682.jpg" alt="Boardwalk" data-id="757" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dcp_2082/" class="wp-image-757"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc20051220_173257_119-1024x682.jpg" alt="Rusty Rail" data-id="764" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/" class="wp-image-764"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/windmill-1024x768.jpg" alt="Windmill" data-id="767" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dcf-1-0/" class="wp-image-767"/></figure></li></ul></div>
+<div aria-label="Offset Gallery" class="wp-block-coblocks-gallery-offset"><ul class="coblocks-gallery has-no-alignment has-caption-style-dark has-small-images has-small-gutter"><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1024" alt="Bell on Wharf" data-id="754" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/100_5478/" class="wp-image-754"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1024" alt="Sunburst Over River" data-id="756" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/cep00032/" class="wp-image-756"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=1024" alt="Antique Farm Machinery" data-id="762" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20051220_160808_102/" class="wp-image-762"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800" alt="canola" data-id="611" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/canola2/" class="wp-image-611"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1024" alt="Boardwalk" data-id="757" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dcp_2082/" class="wp-image-757"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1024" alt="Rusty Rail" data-id="764" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/" class="wp-image-764"/></figure></li><li class="coblocks-gallery--item"><figure class="wp-block-coblocks-gallery-offset__figure"><img src="https://images.unsplash.com/photo-1532628387584-f9d9a0e1aa0b?w=1024" alt="Windmill" data-id="767" data-imglink="" data-link="https://wpsandbox.mystagingwebsite.com/2010/09/10/post-format-gallery/dcf-1-0/" class="wp-image-767"/></figure></li></ul></div>
 <!-- /wp:coblocks/gallery-offset -->
 
 <!-- wp:coblocks/opentable {"language":"en-US"} /-->
@@ -361,7 +361,7 @@
 <!-- /wp:coblocks/highlight -->
 
 <!-- wp:coblocks/media-card {"mediaId":765,"mediaType":"image","maxWidth":1150,"hasImgShadow":true,"hasCardShadow":true,"coblocks":{"id":"1126105335526"}} -->
-<div class="wp-block-coblocks-media-card alignwide is-style-left is-stacked-on-mobile coblocks-media-card-1126105335526"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper" style="max-width:1150px"><figure class="wp-block-coblocks-media-card__media has-shadow"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dscn3316-1024x768.jpg" alt="Sea and Rocks" class="wp-image-765"/></figure><div class="wp-block-coblocks-media-card__content has-shadow"></div></div></div></div>
+<div class="wp-block-coblocks-media-card alignwide is-style-left is-stacked-on-mobile coblocks-media-card-1126105335526"><div class="wp-block-coblocks-media-card__inner has-no-padding"><div class="wp-block-coblocks-media-card__wrapper" style="max-width:1150px"><figure class="wp-block-coblocks-media-card__media has-shadow"><img src="https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=1024" alt="Sea and Rocks" class="wp-image-765"/></figure><div class="wp-block-coblocks-media-card__content has-shadow"></div></div></div></div>
 <!-- /wp:coblocks/media-card -->
 
 <!-- wp:embed {"url":"https://gist.github.com/paulirish/12fb951a8b893a454b32","type":"rich","providerNameSlug":"embed-handler"} -->
@@ -373,7 +373,7 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 <!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"2.5rem","left":"2.5rem","right":"2.5rem","top":"2.5rem"}}}} -->
 <div class="wp-block-columns" style="padding-top:2.5rem;padding-right:2.5rem;padding-bottom:2.5rem;padding-left:2.5rem"><!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"id":1882,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/captain-america-1.png" alt="box of toys" class="wp-image-1882"/></figure>
+<figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?w=1024" alt="box of toys" class="wp-image-1882"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -434,7 +434,7 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 		<link>https://wpsandbox.mystagingwebsite.com/coblocks-kitchen-sink/random-badge/</link>
 		<pubDate>Sat, 27 Dec 2025 04:34:52 +0000</pubDate>
 		<dc:creator><![CDATA[danielwrobert]]></dc:creator>
-		<guid isPermaLink="false">https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/random-badge.png</guid>
+		<guid isPermaLink="false">https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=200</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -452,7 +452,7 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/random-badge.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=200]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/12/random-badge.png]]></wp:meta_value>
@@ -467,7 +467,7 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 		<link>https://wpsandbox.mystagingwebsite.com/coblocks-kitchen-sink/pexels-photo-20072294/</link>
 		<pubDate>Sat, 27 Dec 2025 05:04:50 +0000</pubDate>
 		<dc:creator><![CDATA[danielwrobert]]></dc:creator>
-		<guid isPermaLink="false">https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/pexels-photo-20072294.jpeg</guid>
+		<guid isPermaLink="false">https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Photo by Cien Nguyen on <a href="https://www.pexels.com/photo/box-of-toys-20072294/" rel="nofollow">Pexels.com</a>]]></excerpt:encoded>
@@ -485,7 +485,7 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/pexels-photo-20072294.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/12/pexels-photo-20072294.jpeg]]></wp:meta_value>
@@ -511,7 +511,7 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":769,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0747.jpg" alt="Brazil Beach" class="wp-image-769"/><figcaption class="wp-element-caption">Jericoacoara Ceara Brasil</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600" alt="Brazil Beach" class="wp-image-769"/><figcaption class="wp-element-caption">Jericoacoara Ceara Brasil</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -520,31 +520,31 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":768,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_0513-1.jpg" alt="Huatulco Coastline" class="wp-image-768"/><figcaption class="wp-element-caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1600" alt="Huatulco Coastline" class="wp-image-768"/><figcaption class="wp-element-caption">Sunrise over the coast in Huatulco, Oaxaca, Mexico</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":767,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/windmill-1024x768.jpg" alt="Windmill" class="wp-image-767"/><figcaption class="wp-element-caption">Windmill shrouded in fog at a farm outside of Walker, Iowa</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1532628387584-f9d9a0e1aa0b?w=1024" alt="Windmill" class="wp-image-767"/><figcaption class="wp-element-caption">Windmill shrouded in fog at a farm outside of Walker, Iowa</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":766,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/michelle_049-1024x768.jpg" alt="Big Sur" class="wp-image-766"/><figcaption class="wp-element-caption">Beach at Big Sur, CA</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600" alt="Big Sur" class="wp-image-766"/><figcaption class="wp-element-caption">Beach at Big Sur, CA</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":765,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dscn3316-1024x768.jpg" alt="Sea and Rocks" class="wp-image-765"/><figcaption class="wp-element-caption">Sea and rocks, Plimmerton, New Zealand</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=1024" alt="Sea and Rocks" class="wp-image-765"/><figcaption class="wp-element-caption">Sea and rocks, Plimmerton, New Zealand</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":758,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc03149-1024x768.jpg" alt="Yachtsody in Blue" class="wp-image-758"/><figcaption class="wp-element-caption">Boats and reflections, Royal Perth Yacht Club</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1024" alt="Yachtsody in Blue" class="wp-image-758"/><figcaption class="wp-element-caption">Boats and reflections, Royal Perth Yacht Club</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":761,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc20050102_192118_51-1024x768.jpg" alt="Wind Farm" class="wp-image-761"/><figcaption class="wp-element-caption">Albany wind-farm against the sunset, Western Australia</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1509803874385-db7c23652552?w=1024" alt="Wind Farm" class="wp-image-761"/><figcaption class="wp-element-caption">Albany wind-farm against the sunset, Western Australia</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":764,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/dsc20051220_173257_119-1024x682.jpg" alt="Rusty Rail" class="wp-image-764"/><figcaption class="wp-element-caption">Rusty rails with fishplate, Kojonup</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1024" alt="Rusty Rail" class="wp-image-764"/><figcaption class="wp-element-caption">Rusty rails with fishplate, Kojonup</figcaption></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -632,7 +632,7 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
 <div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:image {"id":771,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2008/06/img_8399.jpg" alt="Boat Barco Texture" class="wp-image-771" style="aspect-ratio:3/4;object-fit:cover"/><figcaption class="wp-element-caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1600" alt="Boat Barco Texture" class="wp-image-771" style="aspect-ratio:3/4;object-fit:cover"/><figcaption class="wp-element-caption">Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -643,8 +643,8 @@ https://gist.github.com/paulirish/12fb951a8b893a454b32
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:cover {"url":"https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2010/08/manhattansummer.jpg","id":827,"dimRatio":50,"customOverlayColor":"#605b59","isUserOverlayColor":false,"sizeSlug":"full"} -->
-<div class="wp-block-cover"><img class="wp-block-cover__image-background wp-image-827 size-full" alt="" src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2010/08/manhattansummer.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#605b59"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<!-- wp:cover {"url":"https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1600","id":827,"dimRatio":50,"customOverlayColor":"#605b59","isUserOverlayColor":false,"sizeSlug":"full"} -->
+<div class="wp-block-cover"><img class="wp-block-cover__image-background wp-image-827 size-full" alt="" src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1600" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#605b59"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">The Big Apple - 1999</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -665,7 +665,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 <div class="wp-block-file"><a id="wp-block-file--media-6abb50e9-5441-43ff-b245-b9a1f3c4cb36" href="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2013/12/2014-slider-mobile-behavior.mov">Sample Document - WordPress Guide.pdf</a><a href="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2013/12/2014-slider-mobile-behavior.mov" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-6abb50e9-5441-43ff-b245-b9a1f3c4cb36">Download PDF</a></div>
 <!-- /wp:file -->
 
-<!-- wp:group {"className":"is-style-section-2","style":{"background":{"backgroundImage":{"url":"https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2014/01/spectacles.gif","id":1692,"source":"file","title":"spectacles"},"backgroundSize":"cover"},"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"className":"is-style-section-2","style":{"background":{"backgroundImage":{"url":"https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=800","id":1692,"source":"file","title":"spectacles"},"backgroundSize":"cover"},"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group is-style-section-2" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:paragraph -->
 <p>This is a paragraph block inside of a group block. The group block has a background image and some padding applied.</p>
 <!-- /wp:paragraph --></div>
@@ -684,7 +684,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 <!-- wp:latest-posts /-->
 
 <!-- wp:media-text {"mediaId":1879,"mediaLink":"https://wpsandbox.mystagingwebsite.com/core-blocks-kitchen-sink/hobbits/","mediaType":"image"} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/hobbits.png" alt="" class="wp-image-1879 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://images.unsplash.com/photo-1531219432768-9f540ce91ef3?w=1024" alt="" class="wp-image-1879 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
 <p>The Shire</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
@@ -905,7 +905,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 		<link>https://wpsandbox.mystagingwebsite.com/core-blocks-kitchen-sink/hobbits/</link>
 		<pubDate>Mon, 29 Dec 2025 03:42:19 +0000</pubDate>
 		<dc:creator><![CDATA[danielwrobert]]></dc:creator>
-		<guid isPermaLink="false">https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/hobbits.png</guid>
+		<guid isPermaLink="false">https://images.unsplash.com/photo-1531219432768-9f540ce91ef3?w=1024</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -923,7 +923,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/hobbits.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://images.unsplash.com/photo-1531219432768-9f540ce91ef3?w=1024]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/12/hobbits.png]]></wp:meta_value>
@@ -938,7 +938,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 		<link>https://wpsandbox.mystagingwebsite.com/coblocks-kitchen-sink/captain-america/</link>
 		<pubDate>Mon, 29 Dec 2025 04:02:16 +0000</pubDate>
 		<dc:creator><![CDATA[danielwrobert]]></dc:creator>
-		<guid isPermaLink="false">https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/captain-america.png</guid>
+		<guid isPermaLink="false">https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?w=1024</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -956,7 +956,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/captain-america.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?w=1024]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/12/captain-america.png]]></wp:meta_value>
@@ -971,7 +971,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 		<link>https://wpsandbox.mystagingwebsite.com/coblocks-kitchen-sink/captain-america-2/</link>
 		<pubDate>Mon, 29 Dec 2025 04:02:35 +0000</pubDate>
 		<dc:creator><![CDATA[danielwrobert]]></dc:creator>
-		<guid isPermaLink="false">https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/captain-america-1.png</guid>
+		<guid isPermaLink="false">https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?w=1024</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -989,7 +989,7 @@ https://www.instagram.com/p/DP2S8DmiHZQ/
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://wpsandbox.mystagingwebsite.com/wp-content/uploads/2025/12/captain-america-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?w=1024]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/12/captain-america-1.png]]></wp:meta_value>
