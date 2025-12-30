@@ -24,7 +24,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://gist.githubusercontent.com/danielwrobert/cf6bb03a48331bbd29ad36a4e673076f/raw/95f06ec5b98d111fd37cb179dd09cf3d3a1944b6/wp-block-demos.xml"
+        "url": "https://raw.githubusercontent.com/danielwrobert/wp-blueprints/refs/heads/main/blocks-kitchen-sink/wp-blocks-demo.xml"
       }
     }
   ]
